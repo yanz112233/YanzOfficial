@@ -1,2 +1,0 @@
-# YanzOfficial
-repo database
